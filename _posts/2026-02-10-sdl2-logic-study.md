@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarkDown语法学习记录
+title: "MarkDown语法学习记录"
 date: 2026-02-10
 ---
 
